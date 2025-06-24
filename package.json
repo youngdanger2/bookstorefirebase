@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/youngdanger2/bookstorefirebase",
+  "homepage": "https://youngdanger2.github.io/bookstorefirebase",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
